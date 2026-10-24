@@ -1,3 +1,5 @@
+<p align="center"><img src="images/hero.jpeg" width="100%" alt="RE-Armada — Digital Deconstruction & Reverse Engineering. A neon banner with Admiral Grace Hopper on the left and a red and white two-headed dragon on the right, over circuit traces, binary and ship blueprints."></p>
+
 # RE-Armada
 
 **The Reverse Engineering Armada** — three related open-source reverse-engineering projects.
