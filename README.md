@@ -1,4 +1,4 @@
-<p align="center"><img src="images/hero.jpeg" width="100%" alt="RE-Armada — Digital Deconstruction & Reverse Engineering. A neon banner with Admiral Grace Hopper on the left and a red and white two-headed dragon on the right, over circuit traces, binary and ship blueprints."></p>
+<p align="center"><img src="images/hero.jpeg" width="100%" alt="RE-Armada — Digital Deconstruction & Reverse Engineering. A neon banner with Admiral Grace Hopper on the left, the many-headed Scylla serpent in the middle, and the red and white GayHydra dragon on the right, over circuit traces, binary and ship blueprints."></p>
 
 # RE-Armada
 
